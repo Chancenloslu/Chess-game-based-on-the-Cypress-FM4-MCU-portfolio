@@ -1,0 +1,10 @@
+CONVERTING	C:\Users\clu\Desktop\Gruppe_121\WinIdeaWorkspaceTemplate_2\WinIdeaWorkspaceTemplate\release\cppp.elf
+LOADING	C:\Users\clu\Desktop\Gruppe_121\WinIdeaWorkspaceTemplate_2\WinIdeaWorkspaceTemplate\release\cppp.elf
+ANALYZING
+ANALYZING
+EMULATION	POD: Cortex (JTAG,SWD)   CPU: FM3/FM4
+DEBUG	PROTOCOL: SWD; RESET: SoC
+PROGRAMMING 	67648 bytes
+UMI INFO	Loading UMI monitor...
+PROGRAMMING	Cypress FM4_TYPE3_MACRO0_1032KB(**) (6 sectors)
+UMI INFO	Unloading UMI monitor...
